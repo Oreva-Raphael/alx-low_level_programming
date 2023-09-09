@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - All functions are called here
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */

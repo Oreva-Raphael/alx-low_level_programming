@@ -1,6 +1,6 @@
 #include <stdio.h>
  /**
-  * main - The start of C programs
+  * main - Entry point
   *
   * Return: Always 0 (If Successful)
   */

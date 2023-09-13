@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * _isalpha () - Retruning either 1 or 0 for any alphabet
+ * _isalpha - Retruning either 1 or 0 for any alphabet
  *
  * Return: Always 0
+ *
+ * c - parameter to get the function work
  */
 int _isalpha(int c)
 {
@@ -15,4 +17,4 @@ int _isalpha(int c)
 	{
 		return 0;
 	}
-}	
+}

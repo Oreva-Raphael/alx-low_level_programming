@@ -5,7 +5,7 @@
  *
  * Return: Always 0
  *
- * c - parameter to get the function work
+ * int c - parameter to get the function work
  */
 int _isalpha(int c)
 {

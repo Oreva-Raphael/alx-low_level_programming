@@ -5,7 +5,7 @@
  *
  * Return: Always 0
  *
- * int c - parameter to get the function work
+ * @c: the character to print
  */
 int _isalpha(int c)
 {

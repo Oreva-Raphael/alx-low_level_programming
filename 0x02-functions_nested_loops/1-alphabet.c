@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - To print alphabets from a to z
  *
  * Return: Always 0 (Successful)
  */

@@ -4,6 +4,8 @@
  * _islower - To print the lower character
  *
  * Return: Always 0
+ *
+ * @c: The character to print
  */
 int _islower(int c)
 {

@@ -1,1 +1,1 @@
-My first C repository
+This repository is for learning how to debug code

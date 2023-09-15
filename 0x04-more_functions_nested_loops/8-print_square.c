@@ -7,15 +7,38 @@
  */
 void print_square(int size)
 {
-	int b;
+	#include "main.h"
+/**
+* print_square - prints a square in the terminal
+* Description:
+* @size: size of square to print
+* 
+*/
 
-	for (b = 0; b < size; b++)
+void print_square(int size)
+{
+	int col, row;
+
+	for (col = 0; col < size; col++)
 	{
-		_putchar(35);
+		for (row = 0; row < size; row++)
+		{
+			if (row == size - 1)
+			{
+			_putchar(35);
+			_putchar('\n');
+			}
+
+			else
+			{
+			_putchar(35);
+			}
+		}
 	}
-	_putchar('\n');
+
 	if (size <= 0)
 	{
 		_putchar('\n');
 	}
+
 }

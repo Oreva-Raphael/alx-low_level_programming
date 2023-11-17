@@ -11,5 +11,10 @@ int _sqrt_recursion(int n);
 int sqrt_test(int n, int natsquare);
 int is_prime_number(int n);
 int prime_test(int n, int divparadox);
+int is_palindrome(char *s);
+int wildcmp(char *s1, char *s2);
+int _strlen_recursion(char *s);
+int palindrome_test(char *s, int x, int y);
+int wildcard_check(char *s1, char *s2);
 
 #endif
